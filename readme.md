@@ -27,4 +27,4 @@ Además de un script para KeywordRecognizer y DictationRecognizer, también se c
 
 E n el siguiente gif se puede observar una ejecución del entorno empleando todas las acciones que se pueden llevar a cabo: 
 
-![]()
+![](https://github.com/alu0101244488/reconocimiento-de-voz/blob/master/img/ejecuci%C3%B3n%20de%20unity.gif?raw=true)
